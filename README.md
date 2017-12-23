@@ -1,0 +1,2 @@
+# C-Sharp-Calculator
+This is a C# calculator which was a project in a subject about C# language. the calculator is simple in calculations it do summation, subtraction, multiplication, division for any number of digits and get the power two of any digit. creating a simple calculator seems easy but handling it was always the hard task. so i handled a lot of exceptions that may face you when creating a calculator, errors like " 3++4", "4/0", "31+45", " 3+4-2 ", " -2*6 " and things like that. I hope you enjoy that.
